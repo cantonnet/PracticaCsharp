@@ -1,0 +1,7 @@
+C:\PracticaCsharp\PracticaObjetos\Objetos2\bin\Debug\Objetos2.exe.config
+C:\PracticaCsharp\PracticaObjetos\Objetos2\bin\Debug\Objetos2.exe
+C:\PracticaCsharp\PracticaObjetos\Objetos2\bin\Debug\Objetos2.pdb
+C:\PracticaCsharp\PracticaObjetos\Objetos2\obj\Debug\Objetos2.csproj.AssemblyReference.cache
+C:\PracticaCsharp\PracticaObjetos\Objetos2\obj\Debug\Objetos2.csproj.CoreCompileInputs.cache
+C:\PracticaCsharp\PracticaObjetos\Objetos2\obj\Debug\Objetos2.exe
+C:\PracticaCsharp\PracticaObjetos\Objetos2\obj\Debug\Objetos2.pdb
