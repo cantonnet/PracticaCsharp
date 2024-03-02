@@ -1,0 +1,7 @@
+C:\PracticaCsharp\Objetos2\Herencia\bin\Debug\Herencia.exe.config
+C:\PracticaCsharp\Objetos2\Herencia\bin\Debug\Herencia.exe
+C:\PracticaCsharp\Objetos2\Herencia\bin\Debug\Herencia.pdb
+C:\PracticaCsharp\Objetos2\Herencia\obj\Debug\Herencia.csproj.AssemblyReference.cache
+C:\PracticaCsharp\Objetos2\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\PracticaCsharp\Objetos2\Herencia\obj\Debug\Herencia.exe
+C:\PracticaCsharp\Objetos2\Herencia\obj\Debug\Herencia.pdb
